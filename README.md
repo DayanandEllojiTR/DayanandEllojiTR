@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DayanandEllojiTR
-- 👀 I’m interested in working Terraform,VS, python and rect-js
+- 👀 I’m interested in working Terraform,VS, python and react-js
 - 🌱 I’m currently learning React-JS, React-Native
 - 💞️ I’m looking to collaborate on Python, Terraform & React
 - 📫 How to reach me dayanand.elloji@thomsonreuters.com
